@@ -1,1 +1,1 @@
-// consept of git branch 
+// consept of git branch - input
